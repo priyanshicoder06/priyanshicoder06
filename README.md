@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Priyanshi 👋
 
-<!--
-**priyanshicoder06/priyanshicoder06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year CSE Student at SRM Institute of Science and Technology (KTR)
 
-Here are some ideas to get you started:
+💻 Currently learning Web Development, Java, and Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Skills I'm Building
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* Object-Oriented Programming
+
+🚀 Projects
+
+* Student Management System
+
+🎯 Current Goals
+
+* Learn Full-Stack Development
+* Build Real-World Projects
+* Improve Problem Solving Skills
+* Create a Strong Developer Portfolio
+
+📚 Currently Working On
+
+* Web Development
+* GitHub Projects
+* Consistent Coding Practice
+
+⚡ Learning one step at a time.
