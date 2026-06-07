@@ -1,6 +1,6 @@
 # Hi, I'm Priyanshi 👋
 
-🎓 First-Year CSE Student at SRM Institute of Science and Technology (KTR)
+🎓 CSE Student at SRM Institute of Science and Technology (KTR)
 
 💻 Currently learning Web Development, Java, and Git & GitHub
 
